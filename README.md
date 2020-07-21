@@ -1,4 +1,5 @@
 # petter
+<<<<<<< HEAD
 
 ## Project setup
 ```
@@ -22,3 +23,6 @@ npm run lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+=======
+An online pet adoption center
+>>>>>>> 4fc2cdc9b99caabf7c53e569a26e20778dd1d540
